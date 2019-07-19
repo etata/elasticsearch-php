@@ -2,7 +2,6 @@
     "name": "ll/elasticsearch",
     "description": "SQL mode for operation elasticsearch",
     "require": {
-        "php": "^7.2",
         "elasticsearch/elasticsearch": "~6.0"
     },
     "autoload": {
