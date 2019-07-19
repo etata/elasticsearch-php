@@ -2,7 +2,7 @@
     "name": "ll/elasticsearch",
     "description": "SQL mode for operation elasticsearch",
     "require": {
-        "elasticsearch/elasticsearch": "~6.0"
+        "elasticsearch/elasticsearch": ">=6.0"
     },
     "autoload": {
         "psr-4": { "Modules\\": "src/Modules/" }
